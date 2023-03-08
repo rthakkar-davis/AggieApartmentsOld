@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AggieApartments/static/css/main.5954ad35.css",
+    "main.js": "/AggieApartments/static/js/main.463ad525.js",
+    "static/media/GreenToSilo.png": "/AggieApartments/static/media/GreenToSilo.571e45b6dcd59b133143.png",
+    "index.html": "/AggieApartments/index.html",
+    "main.5954ad35.css.map": "/AggieApartments/static/css/main.5954ad35.css.map",
+    "main.463ad525.js.map": "/AggieApartments/static/js/main.463ad525.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5954ad35.css",
+    "static/js/main.463ad525.js"
+  ]
+}

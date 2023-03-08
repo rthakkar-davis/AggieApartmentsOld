@@ -1,0 +1,38 @@
+.transportationContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imageContainer{
+    width: 800px;
+}
+.image{
+    width: 100%;
+    
+}
+.bigTransportationContainer{
+    border-bottom: 1px solid black;
+    padding-bottom: 30px;
+}
+.travelTimeContainer{
+    border: 1px solid black;
+    width: 370px;
+    padding: 30px;
+}
+.busLineContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+.busLineIcon{
+    border: 1px solid black;
+    margin-right: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    background-color: #203759;
+}
